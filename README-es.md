@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Carlos%20Alberto%20Aceves%20Cabrera&fontSize=50&fontAlignY=35&desc=Desarrollador%20de%20Ciberseguridad%20e%20IA&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
-</div>
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -59,10 +57,7 @@
 - 🦓 **[ZEBRA](https://github.com/Charly-bite/ZEBRA)**
 </details>
 
-### 🔒 Proyectos Privados
-_Una colección de mis herramientas de código cerrado y proyectos de infraestructura:_
-- **[Inserta el Nombre Aquí]**: [Inserta una breve descripción aquí]
-- **[Inserta el Nombre Aquí]**: [Inserta una breve descripción aquí]
+
 
 ### 🛠️ Tecnologías y Herramientas
 

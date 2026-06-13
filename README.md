@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Carlos%20Alberto%20Aceves%20Cabrera&fontSize=50&fontAlignY=35&desc=Cybersecurity%20&%20AI%20Developer&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
-</div>
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -59,10 +57,7 @@
 - 🦓 **[ZEBRA](https://github.com/Charly-bite/ZEBRA)**
 </details>
 
-### 🔒 Private Projects
-_A collection of my closed-source tools and infrastructure projects:_
-- **[Insert Name Here]**: [Insert short description here]
-- **[Insert Name Here]**: [Insert short description here]
+
 
 
 
