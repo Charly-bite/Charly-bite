@@ -31,8 +31,33 @@
 - 🛡️ Apasionado por la **Ciberseguridad**, Detección de Amenazas y sistemas de defensa impulsados por IA.
 - 🤖 Creando herramientas de automatización inteligente y bots integrando Modelos de Lenguaje (LLMs).
 - 🐍 Desarrollando activamente con **Python** y **JavaScript** (Node.js).
-- 🔭 Actualmente trabajando en un robusto **[Bot de IA para WhatsApp](https://github.com/Charly-bite/whatsapp-ai-bot)** Multi-Cloud, una **[Herramienta de Detección de Phishing](https://github.com/Charly-bite/Phishing-tool-XAI)**, y **[ZEBRA](https://github.com/Charly-bite/ZEBRA)** (Privado).
+- 🔭 Actualmente trabajando en un robusto **[Bot de IA para WhatsApp](https://github.com/Charly-bite/whatsapp-ai-bot)** Multi-Cloud, una **[Herramienta de Detección de Phishing](https://github.com/Charly-bite/Phishing-tool-XAI)**, y **[ZEBRA](https://github.com/Charly-bite/ZEBRA)**.
 - 📍 Radicado en **México** 🇲🇽
+
+### 📂 Proyectos Open Source
+<details>
+<summary><b>¡Haz clic para ver mis 18+ Repositorios Públicos!</b></summary>
+<br/>
+
+- 🐍 **[Class-Notes-MCP](https://github.com/Charly-bite/Class-Notes-MCP)**: Sistema modular en Python para grabar, transcribir y generar notas de clase.
+- 🌐 **[dory-lat-app](https://github.com/Charly-bite/dory-lat-app)**: Script de XAI modificado para correr en un docker.
+- 🐹 **[HCP_Fuzzing](https://github.com/Charly-bite/HCP_Fuzzing)**
+- 🐍 **[Laberinto_Asterion](https://github.com/Charly-bite/Laberinto_Asterion)**
+- 🐍 **[laboratorio_chido](https://github.com/Charly-bite/laboratorio_chido)**
+- 💻 **[Merlin](https://github.com/Charly-bite/Merlin)**
+- 🚀 **[Meteorite_Madness](https://github.com/Charly-bite/Meteorite_Madness)**: CUGDL NASA APP SPACE CHALLEGE.
+- ⛏️ **[minecraft_server](https://github.com/Charly-bite/minecraft_server)**
+- 🐍 **[Open-OMS](https://github.com/Charly-bite/Open-OMS)**
+- 🐍 **[Open-SGA](https://github.com/Charly-bite/Open-SGA)**: Gestor SGA de Código Abierto.
+- 🎣 **[Phishing-tool-XAI](https://github.com/Charly-bite/Phishing-tool-XAI)**: Herramienta basada en python para detectar intentos de phishing por correo electrónico.
+- 🔴 **[POKEDEX](https://github.com/Charly-bite/POKEDEX)**: Pokedex impulsada por Python.
+- ☁️ **[Proyecto_Integrador_AWS](https://github.com/Charly-bite/Proyecto_Integrador_AWS)**
+- 📦 **[QB-WMS](https://github.com/Charly-bite/QB-WMS)**
+- 📄 **[SD_NODE](https://github.com/Charly-bite/SD_NODE)**
+- 📖 **[Sesible_Data_Interactive_Story](https://github.com/Charly-bite/Sesible_Data_Interactive_Story)**
+- 🤖 **[whatsapp-ai-bot](https://github.com/Charly-bite/whatsapp-ai-bot)**
+- 🦓 **[ZEBRA](https://github.com/Charly-bite/ZEBRA)**
+</details>
 
 ### 🔒 Proyectos Privados
 _Una colección de mis herramientas de código cerrado y proyectos de infraestructura:_
