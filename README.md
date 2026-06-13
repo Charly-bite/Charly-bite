@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=70&fontAlignY=35&desc=I'm%20Carlos%20Alberto%20Aceves%20Cabrera&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=70&fontAlignY=35&desc=I'm%20Carlos%20Alberto%20Aceves%20Cabrera&descAlignY=55&descAlign=50&animation=twinkling" />
 </div>
 
 <h1 align="center">
@@ -27,15 +27,10 @@
 - 🛡️ Passionate about **Cybersecurity**, Threat Detection, and AI-driven defense systems.
 - 🤖 Building intelligent automation tools and bots integrating Large Language Models (LLMs).
 - 🐍 Actively developing with **Python** & **JavaScript** (Node.js).
-- 🔭 Currently working on a robust Multi-Cloud **[WhatsApp AI Bot](https://github.com/Charly-bite/whatsapp-ai-bot)** & a **[Phishing Detection Tool](https://github.com/Charly-bite/Phishing-tool-XAI)** using XAI.
+- 🔭 Currently working on a robust Multi-Cloud **[WhatsApp AI Bot](https://github.com/Charly-bite/whatsapp-ai-bot)**, a **[Phishing Detection Tool](https://github.com/Charly-bite/Phishing-tool-XAI)**, & **[ZEBRA](https://github.com/Charly-bite/ZEBRA)** (Private).
 - 📍 Based in **México** 🇲🇽
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Charly-bite&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
+
 
 ### 🛠️ Tech Stack & Tools
 
@@ -49,7 +44,7 @@
 
 <div align="center">
   <a href="https://github.com/Charly-bite">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charly-bite&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195" alt="Carlos's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Charly-bite&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195" alt="Carlos's GitHub Stats" />
   </a>
   <a href="https://github.com/Charly-bite">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charly-bite&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="195" alt="Top Languages" />
