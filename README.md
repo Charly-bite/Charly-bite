@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=70&fontAlignY=35&desc=I'm%20Carlos%20Alberto%20Aceves%20Cabrera&descAlignY=55&descAlign=50&animation=twinkling" />
+  <img src="./banner.png" alt="Cybersecurity Banner" width="100%" />
 </div>
 
 <h1 align="center">
@@ -7,6 +7,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+at+UDG;AI+%26+Full-Stack+Developer;Building+Intelligent+Defense+Systems" alt="Typing SVG" />
   </a>
 </h1>
+
+<div align="center">
+  <strong><a href="./README.md">🇬🇧 English</a></strong> | <strong><a href="./README-es.md">🇪🇸 Español</a></strong>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-aceves-7606a3382" target="_blank">
@@ -29,6 +33,11 @@
 - 🐍 Actively developing with **Python** & **JavaScript** (Node.js).
 - 🔭 Currently working on a robust Multi-Cloud **[WhatsApp AI Bot](https://github.com/Charly-bite/whatsapp-ai-bot)**, a **[Phishing Detection Tool](https://github.com/Charly-bite/Phishing-tool-XAI)**, & **[ZEBRA](https://github.com/Charly-bite/ZEBRA)** (Private).
 - 📍 Based in **México** 🇲🇽
+
+### 🔒 Private Projects
+_A collection of my closed-source tools and infrastructure projects:_
+- **[Insert Name Here]**: [Insert short description here]
+- **[Insert Name Here]**: [Insert short description here]
 
 
 
