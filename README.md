@@ -31,8 +31,33 @@
 - 🛡️ Passionate about **Cybersecurity**, Threat Detection, and AI-driven defense systems.
 - 🤖 Building intelligent automation tools and bots integrating Large Language Models (LLMs).
 - 🐍 Actively developing with **Python** & **JavaScript** (Node.js).
-- 🔭 Currently working on a robust Multi-Cloud **[WhatsApp AI Bot](https://github.com/Charly-bite/whatsapp-ai-bot)**, a **[Phishing Detection Tool](https://github.com/Charly-bite/Phishing-tool-XAI)**, & **[ZEBRA](https://github.com/Charly-bite/ZEBRA)** (Private).
+- 🔭 Currently working on a robust Multi-Cloud **[WhatsApp AI Bot](https://github.com/Charly-bite/whatsapp-ai-bot)**, a **[Phishing Detection Tool](https://github.com/Charly-bite/Phishing-tool-XAI)**, & **[ZEBRA](https://github.com/Charly-bite/ZEBRA)**.
 - 📍 Based in **México** 🇲🇽
+
+### 📂 Open Source Projects
+<details>
+<summary><b>Click to view all my 18+ Public Repositories!</b></summary>
+<br/>
+
+- 🐍 **[Class-Notes-MCP](https://github.com/Charly-bite/Class-Notes-MCP)**: Modular Python system for recording, transcribing, and generating class notes.
+- 🌐 **[dory-lat-app](https://github.com/Charly-bite/dory-lat-app)**: Modified XAI script to run in a docker.
+- 🐹 **[HCP_Fuzzing](https://github.com/Charly-bite/HCP_Fuzzing)**
+- 🐍 **[Laberinto_Asterion](https://github.com/Charly-bite/Laberinto_Asterion)**
+- 🐍 **[laboratorio_chido](https://github.com/Charly-bite/laboratorio_chido)**
+- 💻 **[Merlin](https://github.com/Charly-bite/Merlin)**
+- 🚀 **[Meteorite_Madness](https://github.com/Charly-bite/Meteorite_Madness)**: CUGDL NASA APP SPACE CHALLEGE.
+- ⛏️ **[minecraft_server](https://github.com/Charly-bite/minecraft_server)**
+- 🐍 **[Open-OMS](https://github.com/Charly-bite/Open-OMS)**
+- 🐍 **[Open-SGA](https://github.com/Charly-bite/Open-SGA)**: Open Sourced SGA Manager.
+- 🎣 **[Phishing-tool-XAI](https://github.com/Charly-bite/Phishing-tool-XAI)**: A tool based on python to detect phishing attempts using emails as vectors.
+- 🔴 **[POKEDEX](https://github.com/Charly-bite/POKEDEX)**: Python Powered POKEDEX.
+- ☁️ **[Proyecto_Integrador_AWS](https://github.com/Charly-bite/Proyecto_Integrador_AWS)**
+- 📦 **[QB-WMS](https://github.com/Charly-bite/QB-WMS)**
+- 📄 **[SD_NODE](https://github.com/Charly-bite/SD_NODE)**
+- 📖 **[Sesible_Data_Interactive_Story](https://github.com/Charly-bite/Sesible_Data_Interactive_Story)**
+- 🤖 **[whatsapp-ai-bot](https://github.com/Charly-bite/whatsapp-ai-bot)**
+- 🦓 **[ZEBRA](https://github.com/Charly-bite/ZEBRA)**
+</details>
 
 ### 🔒 Private Projects
 _A collection of my closed-source tools and infrastructure projects:_
