@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Banner de Ciberseguridad" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Carlos%20Alberto%20Aceves%20Cabrera&fontSize=50&fontAlignY=35&desc=Desarrollador%20de%20Ciberseguridad%20e%20IA&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
 </div>
 
 <h1 align="center">
