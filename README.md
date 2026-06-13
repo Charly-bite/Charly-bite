@@ -1,0 +1,62 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=70&fontAlignY=35&desc=I'm%20Carlos%20Alberto%20Aceves%20Cabrera&descAlignY=55&descAlign=50" />
+</div>
+
+<h1 align="center">Hi there, I'm Carlos (Charly-bite) 👨‍💻</h1>
+<h3 align="center">Cyber-security student at the University of Guadalajara | 2025-A Generation 🎓</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-aceves-7606a3382" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:carlos.aceves6195@alumnos.udg.mx">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.dory.lat/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://orcid.org/0009-0009-5874-9093" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🛡️ Passionate about **Cybersecurity**, Threat Detection, and AI-driven defense systems.
+- 🤖 Building intelligent automation tools and bots integrating Large Language Models (LLMs).
+- 🐍 Actively developing with **Python** & **JavaScript** (Node.js).
+- 🔭 Currently working on a robust Multi-Cloud **[WhatsApp AI Bot](https://github.com/Charly-bite/whatsapp-ai-bot)** & a **[Phishing Detection Tool](https://github.com/Charly-bite/Phishing-tool-XAI)** using XAI.
+- 📍 Based in **México** 🇲🇽
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,html,css,git,github,kali,linux,docker,mysql&theme=dark" />
+  </a>
+</p>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Charly-bite">
+    <img src="https://github-readme-stats.vercel.app/api?username=Charly-bite&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195" alt="Carlos's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Charly-bite">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charly-bite&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="195" alt="Top Languages" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charly-bite&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <i>"In cybersecurity, the only true constant is the evolution of the threat."</i>
+</div>
