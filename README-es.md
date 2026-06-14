@@ -39,21 +39,21 @@
 
 - 🤖 **[whatsapp-ai-bot](https://github.com/Charly-bite/whatsapp-ai-bot)**: Asistente multi-nube para WhatsApp impulsado por modelos de lenguaje (LLMs) y flujos automatizados.
 - 🐍 **[class-notes-mcp](https://github.com/Charly-bite/class-notes-mcp)**: Sistema modular en Python para grabar, transcribir y generar notas de clase mediante Model Context Protocol (MCP).
-- 🌐 **[dory-lat-docker-app](https://github.com/Charly-bite/dory-lat-docker-app)**: Aplicación web analítica contenedorizada con una interfaz de usuario glassmórfica.
+- 🌐 **[dory-lat-docker-app](https://github.com/Charly-bite/dory-lat-docker-app)**: Aplicación web analítica contenedorizada con una interfaz de usuario moderna y responsiva.
 - 🐹 **[hcp-fuzzing](https://github.com/Charly-bite/hcp-fuzzing)**: Framework de pruebas de seguridad y fuzzing de alto rendimiento desarrollado en Go.
-- 🐍 **[laberinto-asterion](https://github.com/Charly-bite/laberinto-asterion)**: Juego de laberinto basado en terminal con interfaz de usuario glassmórfica.
-- 🧪 **[laboratorio-chido](https://github.com/Charly-bite/laboratorio-chido)**: Interfaz web de laboratorio interactivo con estilo glassmorphism profundo y tipografía Outfit.
+- 🐍 **[laberinto-asterion](https://github.com/Charly-bite/laberinto-asterion)**: Juego de laberinto basado en terminal con un panel visual interactivo.
+- 🧪 **[laboratorio-chido](https://github.com/Charly-bite/laboratorio-chido)**: Interfaz web de laboratorio interactivo con diseño responsivo oscuro y tipografía Outfit.
 - 💻 **[merlin-powershell](https://github.com/Charly-bite/merlin-powershell)**: Gestor de automatización y orquestación multiplataforma en PowerShell.
-- 🚀 **[nasa-meteorite-madness](https://github.com/Charly-bite/nasa-meteorite-madness)**: Proyecto de NASA Space Apps Challenge con panel glassmórfico de visualización de meteoritos.
+- 🚀 **[nasa-meteorite-madness](https://github.com/Charly-bite/nasa-meteorite-madness)**: Proyecto de NASA Space Apps Challenge con panel visual para rastreo de meteoritos.
 - ⛏️ **[minecraft-server](https://github.com/Charly-bite/minecraft-server)**: Plantilla preconfigurada y limpia para el alojamiento seguro de servidores de Minecraft.
-- 📦 **[open-oms](https://github.com/Charly-bite/open-oms)**: Sistema de gestión de pedidos en Flask con personalización global estilo glassmorphism oscuro.
-- 🎓 **[open-sga](https://github.com/Charly-bite/open-sga)**: Aplicación de control escolar (SGA) con panel lateral y diseño glassmorphic de calidad.
-- 🎣 **[xai-phishing-detector](https://github.com/Charly-bite/xai-phishing-detector)**: Detector de phishing en correos electrónicos con Inteligencia Artificial Explicable (XAI) e interfaz de vidrio brillante.
+- 📦 **[open-oms](https://github.com/Charly-bite/open-oms)**: Sistema de gestión de pedidos en Flask con personalización global del tema oscuro.
+- 🎓 **[open-sga](https://github.com/Charly-bite/open-sga)**: Aplicación de control escolar (SGA) con panel lateral y panel de control moderno de calidad.
+- 🎣 **[xai-phishing-detector](https://github.com/Charly-bite/xai-phishing-detector)**: Detector de phishing en correos electrónicos con Inteligencia Artificial Explicable (XAI) e interfaz responsiva.
 - 🔴 **[python-pokedex](https://github.com/Charly-bite/python-pokedex)**: Aplicación de escritorio Pokédex en Python Tkinter estandarizada con guías comunitarias.
 - ☁️ **[proyecto-integrador-aws](https://github.com/Charly-bite/proyecto-integrador-aws)**: Índice de infraestructura multinube con guías de integración de servicios de AWS.
-- 🏬 **[qb-wms](https://github.com/Charly-bite/qb-wms)**: Sistema de Organización de Almacenes (SOA) con tablas Tabulator y tema de vidrio oscuro.
+- 🏬 **[qb-wms](https://github.com/Charly-bite/qb-wms)**: Sistema de Organización de Almacenes (SOA) con tablas Tabulator y estilo oscuro personalizado.
 - 📄 **[sd-node](https://github.com/Charly-bite/sd-node)**: Sistema de orquestación de clústeres distribuidos en VMs usando Multipass, Redis y Python.
-- 📖 **[sensible-data-interactive-story](https://github.com/Charly-bite/sensible-data-interactive-story)**: Base de datos segura e historia interactiva con interfaz de usuario glassmórfica premium.
+- 📖 **[sensible-data-interactive-story](https://github.com/Charly-bite/sensible-data-interactive-story)**: Base de datos segura e historia interactiva con interfaz de usuario pulida.
 - 🦓 **[zebra](https://github.com/Charly-bite/zebra)**: Diseñador de códigos de barras ZPL y spooler de impresión con llamadas de bajo nivel USB.
 </details>
 
