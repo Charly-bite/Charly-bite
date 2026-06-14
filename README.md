@@ -29,7 +29,7 @@
 - 🛡️ Passionate about **Cybersecurity**, Threat Detection, and AI-driven defense systems.
 - 🤖 Building intelligent automation tools and bots integrating Large Language Models (LLMs).
 - 🐍 Actively developing with **Python** & **JavaScript** (Node.js).
-- 🔭 Currently working on a robust Multi-Cloud **[WhatsApp AI Bot](https://github.com/Charly-bite/whatsapp-ai-bot)**, a **[Phishing Detection Tool](https://github.com/Charly-bite/Phishing-tool-XAI)**, & **[ZEBRA](https://github.com/Charly-bite/ZEBRA)**.
+- 🔭 Currently working on a robust Multi-Cloud **[WhatsApp AI Bot](https://github.com/Charly-bite/whatsapp-ai-bot)**, a **[Phishing Detection Tool](https://github.com/Charly-bite/xai-phishing-detector)**, & **[ZEBRA](https://github.com/Charly-bite/zebra)**.
 - 📍 Based in **México** 🇲🇽
 
 ### 📂 Open Source Projects
@@ -37,24 +37,24 @@
 <summary><b>Click to view all my 18+ Public Repositories!</b></summary>
 <br/>
 
-- 🐍 **[Class-Notes-MCP](https://github.com/Charly-bite/Class-Notes-MCP)**: Modular Python system for recording, transcribing, and generating class notes.
-- 🌐 **[dory-lat-app](https://github.com/Charly-bite/dory-lat-app)**: Modified XAI script to run in a docker.
-- 🐹 **[HCP_Fuzzing](https://github.com/Charly-bite/HCP_Fuzzing)**
-- 🐍 **[Laberinto_Asterion](https://github.com/Charly-bite/Laberinto_Asterion)**
-- 🐍 **[laboratorio_chido](https://github.com/Charly-bite/laboratorio_chido)**
-- 💻 **[Merlin](https://github.com/Charly-bite/Merlin)**
-- 🚀 **[Meteorite_Madness](https://github.com/Charly-bite/Meteorite_Madness)**: CUGDL NASA APP SPACE CHALLEGE.
-- ⛏️ **[minecraft_server](https://github.com/Charly-bite/minecraft_server)**
-- 🐍 **[Open-OMS](https://github.com/Charly-bite/Open-OMS)**
-- 🐍 **[Open-SGA](https://github.com/Charly-bite/Open-SGA)**: Open Sourced SGA Manager.
-- 🎣 **[Phishing-tool-XAI](https://github.com/Charly-bite/Phishing-tool-XAI)**: A tool based on python to detect phishing attempts using emails as vectors.
-- 🔴 **[POKEDEX](https://github.com/Charly-bite/POKEDEX)**: Python Powered POKEDEX.
-- ☁️ **[Proyecto_Integrador_AWS](https://github.com/Charly-bite/Proyecto_Integrador_AWS)**
-- 📦 **[QB-WMS](https://github.com/Charly-bite/QB-WMS)**
-- 📄 **[SD_NODE](https://github.com/Charly-bite/SD_NODE)**
-- 📖 **[Sesible_Data_Interactive_Story](https://github.com/Charly-bite/Sesible_Data_Interactive_Story)**
-- 🤖 **[whatsapp-ai-bot](https://github.com/Charly-bite/whatsapp-ai-bot)**
-- 🦓 **[ZEBRA](https://github.com/Charly-bite/ZEBRA)**
+- 🤖 **[whatsapp-ai-bot](https://github.com/Charly-bite/whatsapp-ai-bot)**: Multi-Cloud WhatsApp assistant powered by Large Language Models (LLMs) and automated workflows.
+- 🐍 **[class-notes-mcp](https://github.com/Charly-bite/class-notes-mcp)**: Modular Python system for recording, transcribing, and generating class notes via Model Context Protocol (MCP).
+- 🌐 **[dory-lat-docker-app](https://github.com/Charly-bite/dory-lat-docker-app)**: Containerized analytical web app featuring a glassmorphic user interface.
+- 🐹 **[hcp-fuzzing](https://github.com/Charly-bite/hcp-fuzzing)**: High-performance Go-based fuzzing and security vulnerability testing framework.
+- 🐍 **[laberinto-asterion](https://github.com/Charly-bite/laberinto-asterion)**: Terminal-based maze game styled with a dark radial glassmorphism interface overlay.
+- 🧪 **[laboratorio-chido](https://github.com/Charly-bite/laboratorio-chido)**: Interactive web laboratory UI styled with deep glassmorphism and Outfit typography.
+- 💻 **[merlin-powershell](https://github.com/Charly-bite/merlin-powershell)**: Automated cross-platform PowerShell orchestration and environment setup manager.
+- 🚀 **[nasa-meteorite-madness](https://github.com/Charly-bite/nasa-meteorite-madness)**: NASA Space Apps Challenge project featuring a glassmorphic meteorite visualization dashboard.
+- ⛏️ **[minecraft-server](https://github.com/Charly-bite/minecraft-server)**: Clean, pre-configured repository template for hosting secure Minecraft server nodes.
+- 📦 **[open-oms](https://github.com/Charly-bite/open-oms)**: Flask-based Order Management System with global dark glassmorphism styling overrides.
+- 🎓 **[open-sga](https://github.com/Charly-bite/open-sga)**: School Management System web app overhauled with a premium glassmorphic sidebar and dashboard.
+- 🎣 **[xai-phishing-detector](https://github.com/Charly-bite/xai-phishing-detector)**: Python-based email phishing detector using Explainable AI (XAI) and a glowing glass UI.
+- 🔴 **[python-pokedex](https://github.com/Charly-bite/python-pokedex)**: Python Tkinter-powered desktop Pokédex application standardized with community guidelines.
+- ☁️ **[proyecto-integrador-aws](https://github.com/Charly-bite/proyecto-integrador-aws)**: Multi-cloud infrastructure repository index featuring AWS integration guidelines.
+- 🏬 **[qb-wms](https://github.com/Charly-bite/qb-wms)**: Warehouse Organization System (SOA) with modern Tabulator data grids and dark glass theme.
+- 📄 **[sd-node](https://github.com/Charly-bite/sd-node)**: Distributed VM cluster orchestration system utilizing Multipass, Redis, and Python workers.
+- 📖 **[sensible-data-interactive-story](https://github.com/Charly-bite/sensible-data-interactive-story)**: Secure query database and interactive analysis narrative featuring a glassmorphic client interface.
+- 🦓 **[zebra](https://github.com/Charly-bite/zebra)**: ZPL barcode designer and print spooler utilizing Python ctypes and direct USB raw writes.
 </details>
 
 
