@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Researcher;%F0%9F%A4%96+AI+Engineer+%7C+Full-Stack+Developer;%F0%9F%94%AC+Building+Intelligent+Defense+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Researcher;%F0%9F%A4%96+AI+%2B+Full-Stack+Engineer;%F0%9F%94%AC+Offense+Meets+Defense" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -21,8 +21,8 @@
   <a href="https://orcid.org/0009-0009-5874-9093" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>&nbsp;
-  <a href="https://www.dory.lat/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  <a href="https://quimicaboss.com.mx" target="_blank">
+    <img src="https://img.shields.io/badge/QuimicaBoss-00C698?style=for-the-badge&logo=googlechrome&logoColor=white" alt="QuimicaBoss" />
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Charly-bite&style=for-the-badge&color=58A6FF&label=VISITORS" alt="Profile Views" />
 </div>
