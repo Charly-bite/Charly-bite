@@ -147,24 +147,24 @@ focus:     Building tools that blur the line between offense and defense
 
 <div align="center">
   <a href="https://github.com/Charly-bite/whatsapp-ai-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=whatsapp-ai-bot&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=whatsapp-ai-bot&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Charly-bite/xai-phishing-detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=xai-phishing-detector&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=xai-phishing-detector&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
   </a>
   <br/>
   <a href="https://github.com/Charly-bite/zebra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=zebra&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=zebra&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Charly-bite/hcp-fuzzing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=hcp-fuzzing&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=hcp-fuzzing&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
   </a>
   <br/>
   <a href="https://github.com/Charly-bite/nasa-meteorite-madness">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=nasa-meteorite-madness&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=nasa-meteorite-madness&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Charly-bite/class-notes-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=class-notes-mcp&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=class-notes-mcp&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
   </a>
 </div>
 
