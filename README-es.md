@@ -1,5 +1,8 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58A6FF&height=220&section=header&text=Carlos%20Aceves&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Ciberseguridad%20%E2%80%A2%20Ingenier%C3%ADa%20IA%20%E2%80%A2%20Desarrollo%20Full-Stack&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Investigador+en+Ciberseguridad;%F0%9F%A4%96+Ingeniero+IA+%7C+Desarrollador+Full-Stack;%F0%9F%94%AC+Construyendo+Sistemas+de+Defensa+Inteligentes" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
   <strong><a href="./README.md">🇬🇧 English</a></strong>&nbsp;&nbsp;·&nbsp;&nbsp;
