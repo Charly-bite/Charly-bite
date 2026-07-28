@@ -58,86 +58,31 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br/><b>Python</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br/><b>JavaScript</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-<br/><b>Go</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
-<br/><b>PowerShell</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br/><b>HTML/CSS</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
-<br/><b>LaTeX</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br/><b>TensorFlow</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-<br/><b>Flask</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br/><b>Node.js</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br/><b>Docker</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br/><b>AWS</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br/><b>Linux</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br/><b>Git</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br/><b>VS Code</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-<br/><b>SQLite</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br/><b>MySQL</b>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" height="48" alt="Gemini" />
-<br/><b>Gemini</b>
-</td>
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/Ollama-000?style=flat&logo=ollama&logoColor=white" height="48" alt="Ollama" />
-<br/><b>Ollama</b>
-</td>
-</tr>
-</table>
+  <h4>💻 Lenguajes</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,go,powershell,html,css,latex&theme=dark" />
+  </a>
+
+  <br/><br/>
+
+  <h4>⚙️ Frameworks y Librerías</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,flask,tailwind&theme=dark" />
+  </a>
+
+  <br/><br/>
+
+  <h4>🧠 IA y Automatización</h4>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+  <br/><br/>
+
+  <h4>☁️ Herramientas e Infraestructura</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,mysql,sqlite,linux,git,vscode&theme=dark" />
+  </a>
 
 </div>
 
@@ -196,6 +141,11 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
 <td width="50" align="center">🔒</td>
 <td><a href="https://github.com/Charly-bite/sensible-data-interactive-story"><b>sensible-data-interactive-story</b></a></td>
 <td>Caso de estudio sobre la filtración del padrón electoral del INE 2016 — app Flask con login glassmórfico, doble almacenamiento SQLite/CSV y filtros PII deliberados demostrando prácticas de hosting seguro en la nube.</td>
+</tr>
+<tr>
+<td width="50" align="center">🛡️</td>
+<td><a href="https://github.com/Charly-bite/QB-IDS"><b>QB-IDS</b></a></td>
+<td>Sistema de Detección de Intrusiones (IDS) desarrollado en TypeScript para monitorear tráfico de red, identificar actividades sospechosas y registrar posibles eventos de seguridad.</td>
 </tr>
 </table>
 
@@ -314,6 +264,11 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
 <td><a href="https://github.com/Charly-bite/proyecto-integrador-aws"><b>proyecto-integrador-aws</b></a></td>
 <td>Índice de infraestructura multi-nube con integración de servicios AWS y guías de despliegue.</td>
 </tr>
+<tr>
+<td width="50" align="center">📖</td>
+<td><a href="https://github.com/Charly-bite/til"><b>til</b></a></td>
+<td>Today I Learned — Una colección de notas diarias, fragmentos de código y artículos cortos que documentan mi aprendizaje en Ciberseguridad, IA e Ingeniería de Software.</td>
+</tr>
 </table>
 
 </details>
@@ -332,6 +287,12 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Charly-bite&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&locale=es&v=1" height="170" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Charly-bite&theme=onedark&no-bg=true&margin-w=15&column=5" alt="GitHub Trophies" />
 </div>
 
 <br/>
