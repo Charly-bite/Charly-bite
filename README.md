@@ -60,6 +60,7 @@ focus:     Building tools that blur the line between offense and defense
 
   <h4>💻 Languages</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;
@@ -74,7 +75,8 @@ focus:     Building tools that blur the line between offense and defense
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 
   <br/><br/>
 
@@ -156,6 +158,11 @@ focus:     Building tools that blur the line between offense and defense
 <td width="50" align="center">🛡️</td>
 <td><a href="https://github.com/Charly-bite/QB-IDS"><b>QB-IDS</b></a></td>
 <td>Intrusion Detection System (IDS) built with TypeScript to monitor network traffic, identify suspicious activities, and log potential security events.</td>
+</tr>
+<tr>
+<td width="50" align="center">💀</td>
+<td><a href="https://github.com/Charly-bite/Desencript"><b>Desencript</b></a></td>
+<td>Academic Command & Control (C2) and LAN telemetric ecosystem. Features a Rust telemetry agent with secure DNS queries (Hickory DNS), a Python C2 server running real-time YARA rule scanning, and a Chart.js dashboard mapping MITRE ATT&CK techniques.</td>
 </tr>
 </table>
 

@@ -60,6 +60,7 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
 
   <h4>💻 Lenguajes</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;
@@ -74,7 +75,8 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 
   <br/><br/>
 
@@ -156,6 +158,11 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
 <td width="50" align="center">🛡️</td>
 <td><a href="https://github.com/Charly-bite/QB-IDS"><b>QB-IDS</b></a></td>
 <td>Sistema de Detección de Intrusiones (IDS) desarrollado en TypeScript para monitorear tráfico de red, identificar actividades sospechosas y registrar posibles eventos de seguridad.</td>
+</tr>
+<tr>
+<td width="50" align="center">💀</td>
+<td><a href="https://github.com/Charly-bite/Desencript"><b>Desencript</b></a></td>
+<td>Ecosistema C2 académico y de telemetría LAN. Incluye un agente en Rust con resolución DNS segura (Hickory DNS), un servidor Python con análisis YARA en tiempo real, y un panel web con Chart.js y mapeo interactivo de MITRE ATT&CK.</td>
 </tr>
 </table>
 
