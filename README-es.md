@@ -147,24 +147,24 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
 
 <div align="center">
   <a href="https://github.com/Charly-bite/whatsapp-ai-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=whatsapp-ai-bot&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Charly-bite&repo=whatsapp-ai-bot&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Charly-bite/xai-phishing-detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=xai-phishing-detector&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Charly-bite&repo=xai-phishing-detector&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
   </a>
   <br/>
   <a href="https://github.com/Charly-bite/zebra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=zebra&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Charly-bite&repo=zebra&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Charly-bite/hcp-fuzzing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=hcp-fuzzing&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Charly-bite&repo=hcp-fuzzing&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
   </a>
   <br/>
   <a href="https://github.com/Charly-bite/nasa-meteorite-madness">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=nasa-meteorite-madness&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Charly-bite&repo=nasa-meteorite-madness&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Charly-bite/class-notes-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=class-notes-mcp&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Charly-bite&repo=class-notes-mcp&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3" />
   </a>
 </div>
 
@@ -255,6 +255,26 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
 <td><a href="https://github.com/Charly-bite/qb-wms"><b>qb-wms</b></a></td>
 <td>App de gestión de almacén con grids de datos tabulator, estilo oscuro personalizado y seguimiento de inventario en tiempo real.</td>
 </tr>
+<tr>
+<td width="50" align="center">⚙️</td>
+<td><a href="https://github.com/Charly-bite/QB-SAO"><b>QB-SAO</b></a></td>
+<td>Sistema centralizado de administración de operaciones para Química Boss, que integra control de inventario, certificados de calidad y automatización de flujos de trabajo. Desarrollado en Python.</td>
+</tr>
+<tr>
+<td width="50" align="center">📝</td>
+<td><a href="https://github.com/Charly-bite/QB-Bitacora"><b>QB-Bitacora</b></a></td>
+<td>Aplicación de bitácora y registro de auditoría de operaciones para el seguimiento de actividades internas y cambios en el ecosistema de Química Boss. Desarrollado en Python.</td>
+</tr>
+<tr>
+<td width="50" align="center">🛒</td>
+<td><a href="https://github.com/Charly-bite/Visor_Web_QuimicaBoss_Compras"><b>Visor_Web_QuimicaBoss_Compras</b></a></td>
+<td>Panel de visualización web para el departamento de compras de Química Boss, que muestra registros de compra, análisis de proveedores y estado de pedidos en tiempo real.</td>
+</tr>
+<tr>
+<td width="50" align="center">📈</td>
+<td><a href="https://github.com/Charly-bite/Visor_Web_QuimicaBoss_Ventas"><b>Visor_Web_QuimicaBoss_Ventas</b></a></td>
+<td>Panel de visualización web para el departamento de ventas de Química Boss, que realiza el seguimiento de métricas de ventas, facturas y flujos de distribución.</td>
+</tr>
 </table>
 
 </details>
@@ -303,15 +323,15 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charly-bite&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&ring_color=58A6FF&icon_color=58A6FF&title_color=58A6FF&locale=es" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Charly-bite&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&ring_color=58A6FF&icon_color=58A6FF&title_color=58A6FF&locale=es" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charly-bite&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8&title_color=58A6FF&locale=es" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Charly-bite&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8&title_color=58A6FF&locale=es" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charly-bite&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&locale=es" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=Charly-bite&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&locale=es" height="170" />
 </div>
 
 <br/>

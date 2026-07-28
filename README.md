@@ -147,24 +147,24 @@ focus:     Building tools that blur the line between offense and defense
 
 <div align="center">
   <a href="https://github.com/Charly-bite/whatsapp-ai-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=whatsapp-ai-bot&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Charly-bite&repo=whatsapp-ai-bot&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Charly-bite/xai-phishing-detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=xai-phishing-detector&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Charly-bite&repo=xai-phishing-detector&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
   </a>
   <br/>
   <a href="https://github.com/Charly-bite/zebra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=zebra&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Charly-bite&repo=zebra&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Charly-bite/hcp-fuzzing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=hcp-fuzzing&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Charly-bite&repo=hcp-fuzzing&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
   </a>
   <br/>
   <a href="https://github.com/Charly-bite/nasa-meteorite-madness">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=nasa-meteorite-madness&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Charly-bite&repo=nasa-meteorite-madness&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Charly-bite/class-notes-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Charly-bite&repo=class-notes-mcp&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Charly-bite&repo=class-notes-mcp&theme=github_dark&hide_border=true&border_radius=10&description_lines_count=3&cache_seconds=1&v=2" />
   </a>
 </div>
 
@@ -255,6 +255,26 @@ focus:     Building tools that blur the line between offense and defense
 <td><a href="https://github.com/Charly-bite/qb-wms"><b>qb-wms</b></a></td>
 <td>Warehouse management app with tabulator data grids, custom dark styling, and real-time inventory tracking.</td>
 </tr>
+<tr>
+<td width="50" align="center">⚙️</td>
+<td><a href="https://github.com/Charly-bite/QB-SAO"><b>QB-SAO</b></a></td>
+<td>Centralized operations management system for Química Boss, integrating inventory control, quality certificates, and workflow automation. Built with Python.</td>
+</tr>
+<tr>
+<td width="50" align="center">📝</td>
+<td><a href="https://github.com/Charly-bite/QB-Bitacora"><b>QB-Bitacora</b></a></td>
+<td>Logging and operation audit trail application for tracking internal activities and changes across the Química Boss ecosystem. Built with Python.</td>
+</tr>
+<tr>
+<td width="50" align="center">🛒</td>
+<td><a href="https://github.com/Charly-bite/Visor_Web_QuimicaBoss_Compras"><b>Visor_Web_QuimicaBoss_Compras</b></a></td>
+<td>Web-based visualization dashboard for the purchasing department of Química Boss, displaying purchase logs, vendor analytics, and order status in real time.</td>
+</tr>
+<tr>
+<td width="50" align="center">📈</td>
+<td><a href="https://github.com/Charly-bite/Visor_Web_QuimicaBoss_Ventas"><b>Visor_Web_QuimicaBoss_Ventas</b></a></td>
+<td>Web-based visualization dashboard for the sales department of Química Boss, tracking sales metrics, invoices, and distribution flows.</td>
+</tr>
 </table>
 
 </details>
@@ -303,15 +323,15 @@ focus:     Building tools that blur the line between offense and defense
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charly-bite&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&ring_color=58A6FF&icon_color=58A6FF&title_color=58A6FF" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Charly-bite&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&ring_color=58A6FF&icon_color=58A6FF&title_color=58A6FF" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charly-bite&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8&title_color=58A6FF" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Charly-bite&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8&title_color=58A6FF" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charly-bite&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=Charly-bite&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" />
 </div>
 
 <br/>
