@@ -164,6 +164,16 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
 <td><a href="https://github.com/Charly-bite/Desencript"><b>Desencript</b></a></td>
 <td>Ecosistema C2 académico y de telemetría LAN. Incluye un agente en Rust con resolución DNS segura (Hickory DNS), un servidor Python con análisis YARA en tiempo real, y un panel web con Chart.js y mapeo interactivo de MITRE ATT&CK.</td>
 </tr>
+<tr>
+<td width="50" align="center">🚇</td>
+<td><a href="https://github.com/Charly-bite/SITEUR"><b>SITEUR</b></a></td>
+<td>Dashboard interactivo de auditoría de seguridad y visualizador de la cadena de ataque en sistemas de transporte urbano. Documenta inyección SQL en GLPI, evasión de WAF y mitigaciones en Apache mediante una interfaz con Chart.js y MITRE.</td>
+</tr>
+<tr>
+<td width="50" align="center">🧪</td>
+<td><a href="https://github.com/Charly-bite/Security_Lab"><b>Security_Lab</b></a></td>
+<td>Entorno dockerizado y aislado para investigación de seguridad que simula servidores vulnerables (Joomla). Incluye scripts para pruebas de aislamiento de red, inyección de payloads y captura de evidencia.</td>
+</tr>
 </table>
 
 </details>
@@ -285,6 +295,11 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
 <td width="50" align="center">📖</td>
 <td><a href="https://github.com/Charly-bite/til"><b>til</b></a></td>
 <td>Today I Learned — Una colección de notas diarias, fragmentos de código y artículos cortos que documentan mi aprendizaje en Ciberseguridad, IA e Ingeniería de Software.</td>
+</tr>
+<tr>
+<td width="50" align="center">🎼</td>
+<td><a href="https://github.com/Charly-bite/Orchestrator"><b>Orchestrator</b></a></td>
+<td>Orquestador de ciclo de vida de servicios locales en PowerShell. Automatiza el arranque, monitoreo de puertos y parada de microservicios y APIs locales de IA (SGA, OMS, Lunoto, Ollama, NetBox).</td>
 </tr>
 </table>
 

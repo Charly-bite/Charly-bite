@@ -164,6 +164,16 @@ focus:     Building tools that blur the line between offense and defense
 <td><a href="https://github.com/Charly-bite/Desencript"><b>Desencript</b></a></td>
 <td>Academic Command & Control (C2) and LAN telemetric ecosystem. Features a Rust telemetry agent with secure DNS queries (Hickory DNS), a Python C2 server running real-time YARA rule scanning, and a Chart.js dashboard mapping MITRE ATT&CK techniques.</td>
 </tr>
+<tr>
+<td width="50" align="center">🚇</td>
+<td><a href="https://github.com/Charly-bite/SITEUR"><b>SITEUR</b></a></td>
+<td>Interactive security audit dashboard and attack chain visualizer for urban transit systems. Documents GLPI SQL injection bypass, Apache HTTP splitting defenses, and WAF evasion strategies via a responsive frontend with Chart.js-based MITRE mapping.</td>
+</tr>
+<tr>
+<td width="50" align="center">🧪</td>
+<td><a href="https://github.com/Charly-bite/Security_Lab"><b>Security_Lab</b></a></td>
+<td>Isolated and dockerized security research environment simulating target Joomla environments. Scripts automate network isolation tests, payload deployment, and evidence capture.</td>
+</tr>
 </table>
 
 </details>
@@ -285,6 +295,11 @@ focus:     Building tools that blur the line between offense and defense
 <td width="50" align="center">📖</td>
 <td><a href="https://github.com/Charly-bite/til"><b>til</b></a></td>
 <td>Today I Learned — A collection of daily notes, code snippets, and short articles tracking my learning journey in Cybersecurity, AI, and Software Engineering.</td>
+</tr>
+<tr>
+<td width="50" align="center">🎼</td>
+<td><a href="https://github.com/Charly-bite/Orchestrator"><b>Orchestrator</b></a></td>
+<td>PowerShell-based local service lifecycle orchestrator. Automates starting, polling, health-checking, and stopping custom microservices and local AI APIs (SGA, OMS, Lunoto, Ollama, NetBox) via port-monitoring routines.</td>
 </tr>
 </table>
 
