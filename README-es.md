@@ -331,7 +331,7 @@ enfoque:     Construyendo herramientas que difuminan la línea entre ofensiva y 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Charly-bite&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&locale=es" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Charly-bite&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&locale=es&v=1" height="170" />
 </div>
 
 <br/>
