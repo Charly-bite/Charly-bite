@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <b>📍 Zona Metropolitana de Guadalajara (Guadalajara / Zapopan, Jalisco, México)</b> · <b>📞 WhatsApp / Tel:</b> <code>+52 33 1388 5654</code> · <b>✉️</b> <a href="mailto:carlos.aceves6195@alumnos.udg.mx">carlos.aceves6195@alumnos.udg.mx</a><br/>
+  <b>📍 Zona Metropolitana de Guadalajara (Guadalajara / Zapopan, Jalisco, México)</b> · <b>✉️</b> <a href="mailto:carlos.aceves6195@alumnos.udg.mx">carlos.aceves6195@alumnos.udg.mx</a><br/>
   <sub><b>🟢 Available for Technical Recruiters &amp; Engineering Teams in ZMG (On-Site · Hybrid · Remote)</b> · B.S. in Cybersecurity (LCIB) @ Universidad de Guadalajara (CUGDL, ID: <code>225361954</code>)</sub>
 </p>
 
@@ -41,24 +41,24 @@
 
 ## 🏢 Production Experience in Zona Metropolitana de Guadalajara (ZMG)
 
-### 1. **Química Boss S.A. de C.V.** — *Zapopan, Jalisco (Col. El Briseño) | 2024 – Present*
+### 1. **Química Boss S.A. de C.V.** — *Zapopan, Jalisco (ZMG) | 2024 – Present*
 **Lead Full-Stack, ERP/WMS & Infrastructure Security Engineer**
-- **QB-SGA & QB-WMS (`:5000`):** Architected warehouse and chemical drum traceability platforms integrated with **SAP Business One** (`Lote`, `Pedimento Aduanal`, FIFO/FEFO expiration control, and mobile scanner UI).
-- **Zebra ZPL Native USB Studio (`:5050`):** Engineered a custom Python + Win32 `CreateFileW` raw USB driver bypassing the Windows print spooler for zero-latency industrial thermal drum labels (`ZPL II`) and dynamic QR codes.
-- **QB-SAO & QB-Panel ISO 9001:2026 (`:8080`):** Automated chemical laboratory Certificates of Analysis (`CoA`) and built the IT infrastructure audit & preventive maintenance control system across 5 production servers/workstations.
+- **QB-SGA & QB-WMS:** Architected warehouse and chemical drum traceability platforms integrated with **SAP Business One** (`Lote`, `Pedimento Aduanal`, FIFO/FEFO expiration control, and mobile scanner UI).
+- **Zebra ZPL Native USB Studio:** Engineered a custom Python + Win32 `CreateFileW` raw USB driver bypassing the Windows print spooler for zero-latency industrial thermal drum labels (`ZPL II`) and dynamic QR codes.
+- **QB-SAO & QB-Panel ISO 9001:2026:** Automated chemical laboratory Certificates of Analysis (`CoA`) and built the IT infrastructure audit & preventive maintenance control system across 5 production servers/workstations.
 - **Executive BI Visors & Chemical Data Lake:** Delivered *Visor Compras v8.1* (multivariate supplier pricing & lead-time analytics), *QB-Ventas v8.2*, *Visor Contabilidad*, *QB-CCA* (automated CFE industrial tariff `GDMTH` PDF parser), and *QB-IDS* (FortiGate syslog collector + 3D threat globe).
 
 ### 2. **Dory Zero-Trust Security & AI (`dory.mx` / `dev.dory.mx`)** — *Guadalajara, Jalisco | 2025 – Present*
 **Founder, Security Researcher & Distributed Systems Architect**
 - **Explainable AI Phishing Engine (`Dory.lat` / `XIA-Phishing`):** Calibrated ensemble classifiers on 82,000+ emails with real-time **SHAP** and **LIME** token-level attribution and automated NIST SP 800-61 incident response playbooks.
 - **Mexican PII / ARCO / LFPDPPP Anonymizer:** Shipped a zero-latency privacy firewall and **Chrome MV3 Extension (`v0.3.0`)** that detects and redacts Mexican `RFC`, `CURP`, `CLABE`, `NSS`, and API keys before prompts reach external LLMs (ChatGPT, Claude, Gemini, Copilot, Perplexity).
-- **5-Node Hybrid Cluster & Merlin Watchdog:** Engineered self-healing reverse-proxy failover (`merlin-powershell`) and the **Persistent-Memory Hub** on `ServerWebQB (.237)` indexing **1,073 AI engineering sessions** (`43,156` FTS5 blocks + Engram knowledge graph).
+- **5-Node Hybrid Cluster & Merlin Watchdog:** Engineered self-healing reverse-proxy failover (`merlin-powershell`) and the **Persistent-Memory Hub** on the Central Context Hub Node indexing **1,073 AI engineering sessions** (`43,156` FTS5 blocks + Engram knowledge graph).
 
 ### 3. **Full-Stack, E-Commerce & Android 16 Security Consulting (ZMG)** — *Guadalajara / Zapopan | 2025 – Present*
 - **Lunoto (Guadalajara E-Commerce):** Full-stack custom apparel store and interactive HTML5 canvas product builder with real-time pricing and order fulfillment.
 - **Dra. Odette Noyola (`draodettenoyola.com` — Chapalita, Guadalajara):** High-conversion medical aesthetics platform with Schema.org `MedicalBusiness` structured data and direct WhatsApp consultation flows.
 - **GovTech & Urban Transit Security:** Developed *Visor Web MunTal Requisiciones* (municipal procurement transparency portal) and executed the *SITEUR* Guadalajara urban rail vulnerability assessment.
-- **Android 16 Security & FinTech:** Built *AgyAndroidAuditor* (Kotlin Jetpack Compose app embedding native ARM64 `agy` binary + local MCP server `:8765` on POCO X7 Pro) and *FinanzasMobile* (bi-weekly Mexican `ISR` / `IMSS` financial simulator).
+- **Android 16 Security & FinTech:** Built *AgyAndroidAuditor* (Kotlin Jetpack Compose app embedding native ARM64 `agy` binary + local embedded MCP server on Android 16) and *FinanzasMobile* (bi-weekly Mexican `ISR` / `IMSS` financial simulator).
 
 ---
 
@@ -70,7 +70,7 @@
 | **#2** | [**fuzzing-slurm-framework**](https://github.com/Charly-bite/fuzzing-slurm-framework) | `Go` `Slurm HPC` `Docker` `REST API` | Distributed Vulnerability Discovery & Fuzzing Orchestrator on Slurm HPC clusters with automated crash deduplication and dynamic seed scheduling. |
 | **#3** | [**sentinel-go**](https://github.com/Charly-bite/sentinel-go) | `Rust` `Hickory DNS` `AES-GCM` `mTLS` | High-concurrency encrypted DNS telemetry & C2 research agent using asynchronous Tokio tasks and authenticated AES-GCM payload chunking. |
 | **#4** | [**SplunkSim**](https://github.com/Charly-bite/SplunkSim) | `TypeScript` `React` `SPL Engine` `MITRE` | Interactive SIEM & SPL Threat Hunting Simulator with real-time query execution and MITRE ATT&CK adversary emulation scenarios. |
-| **#5** | [**AgyAndroidAuditor**](https://github.com/Charly-bite/AgyAndroidAuditor) | `Kotlin` `Android 16` `ARM64` `MCP :8765` | Native Android 16 Security Auditor on POCO X7 Pro embedding compiled `agy` `arm64-v8a` binary + local Model Context Protocol (MCP) server. |
+| **#5** | [**AgyAndroidAuditor**](https://github.com/Charly-bite/AgyAndroidAuditor) | `Kotlin` `Android 16` `ARM64` `Embedded MCP` | Native Android 16 Security Auditor on POCO X7 Pro embedding compiled `agy` `arm64-v8a` binary + local Model Context Protocol (MCP) server. |
 | **#6** | [**swarm-ai-orchestrator**](https://github.com/Charly-bite/swarm-ai-orchestrator) | `Python` `FastAPI` `AsyncIO` `SSE` | Distributed Multi-Agent AI Swarm Orchestrator coordinating 10+ autonomous specialized agents across the 5-node hybrid cluster. |
 | **#7** | [**Persistent-Memory**](https://github.com/Charly-bite/Persistent-Memory) | `Python` `MCP` `SQLite FTS5` `Engram` | Cross-Host AI Context & Memory MCP Server synchronizing **1,073 conversations** and **43,156 searchable blocks** across 5 Tailscale nodes. |
 | **#8** | [**QB-SGA**](https://github.com/Charly-bite/QB-SGA) | `JavaScript` `Node.js` `SAP B1` `SQL` | Industrial Warehouse & Chemical Traceability System synced with **SAP Business One** in production at Química Boss (Zapopan). |
@@ -91,12 +91,12 @@
 
 ```mermaid
 flowchart LR
-    CF["Cloudflare Zero-Trust Edge<br/>(dory.mx / dev.dory.mx)"] --> M["Node 1: DEVQB (.222 · Zapopan)<br/>AMD Ryzen 5 5600GT · 64GB DDR4<br/>Radeon RX 9060 XT (16GB VRAM)"]
-    CF -. "Merlin Auto-Failover" .-> W["Node 2: Desarrollo (.218 · Zapopan)<br/>AMD Ryzen 5 8500G (Radeon 740M)<br/>64GB DDR5 RAM · HA Worker"]
-    M <-->|"Tailscale WireGuard Mesh"| H["Node 3: ServerWebQB (.237 · Zapopan)<br/>Windows Server 2022 · Xeon E3-1240 v3<br/>8GB RAM · 1,073 AI Sessions FTS5"]
-    W <-->|"Tailscale WireGuard Mesh"| H
-    H <-->|"Encrypted Sync & SQL"| V["Node 4: QB-BD (.187 · Zapopan)<br/>Windows Server 2019 · Xeon Gold 5218R<br/>32GB ECC RAM · SQL & Backup Vault"]
-    M <-->|"ADB TCP + SSH"| L["Node 5: Home (.9 · Guadalajara)<br/>Core i5-12450H · 32GB RAM · RTX 3050<br/>Android 16 Security Lab (POCO X7 Pro)"]
+    CF["Cloudflare Zero-Trust Edge<br/>(dory.mx / dev.dory.mx)"] --> M["Node 01: Primary App Node (Zapopan)<br/>AMD Ryzen 5 5600GT · 64GB DDR4<br/>Radeon RX 9060 XT (16GB VRAM)"]
+    CF -. "Merlin Auto-Failover" .-> W["Node 02: HA Failover Worker (Zapopan)<br/>AMD Ryzen 5 8500G (Radeon 740M)<br/>64GB DDR5 RAM · HA Worker"]
+    M <-->|"Zero-Trust WireGuard Mesh"| H["Node 03: Central Context Hub (Zapopan)<br/>Windows Server 2022 · Xeon E3-1240 v3<br/>8GB RAM · 1,073 AI Sessions FTS5"]
+    W <-->|"Zero-Trust WireGuard Mesh"| H
+    H <-->|"Encrypted Sync & SQL"| V["Node 04: Enterprise Replica Vault (Zapopan)<br/>Windows Server 2019 · Xeon Gold 5218R<br/>32GB ECC RAM · SQL & Backup Vault"]
+    M <-->|"Encrypted Mesh"| L["Node 05: Security Research Lab (Guadalajara)<br/>Core i5-12450H · 32GB RAM · RTX 3050<br/>Android 16 Security Lab"]
 ```
 
 ---
@@ -127,16 +127,16 @@ Every repository below is verified against `github.com/Charly-bite` and can be e
 <details open>
 <summary><b>🤖 2. Multi-Agent AI, Distributed Inference & Voice/Media Systems (10 Systems)</b></summary>
 
-14. **[swarm-ai-orchestrator](https://github.com/Charly-bite/swarm-ai-orchestrator)** — Multi-Agent AI Swarm Coordinator & Task Router (`:9090`).
+14. **[swarm-ai-orchestrator](https://github.com/Charly-bite/swarm-ai-orchestrator)** — Multi-Agent AI Swarm Coordinator & Task Router.
 15. **[Persistent-Memory](https://github.com/Charly-bite/Persistent-Memory)** *(Private)* — Cross-Host MCP Memory Server (`1,073` conversations, `43,156` FTS5 blocks + Engram).
 16. **[Cluster-IA-Distribuido](https://github.com/Charly-bite/Cluster-IA-Distribuido)** — Distributed GGML RPC & Tensor-Split LLM Inference Cluster.
 17. **[swarm-un-image](https://github.com/Charly-bite/swarm-un-image)** — Multi-Agent Visual Synthesis & Computer Vision Pipeline.
 18. **[voz](https://github.com/Charly-bite/voz)** — Local CUDA `whisper.cpp` Push-to-Talk Voice Dictation Daemon.
 19. **[videonarrador](https://github.com/Charly-bite/videonarrador)** — Automated AI Video Narration, Script Synthesis & FFmpeg Rendering Pipeline.
 20. **[prompeneitor](https://github.com/Charly-bite/prompeneitor)** — Structured PTCF XML Prompt Engineering & Evaluation Workbench.
-21. **Cluster-Salud-Monitor (:8501)** *(Cluster App)* — Real-Time 5-Node GPU/CPU/VRAM/Tailscale Health Telemetry Dashboard.
-22. **Swarm-10-Agents-Runtime (:9090)** *(Cluster App)* — Autonomous 10-Agent Specialized Code & Security Review Runtime.
-23. **Antigravity-Sync-Hub** *(Cluster App)* — Automated Multi-Host Context & SQLite FTS5 Synchronization Engine (`ServerWebQB .237` + `QB-BD .187`).
+21. **Cluster-Salud-Monitor** *(Cluster App)* — Real-Time 5-Node GPU/CPU/VRAM/Mesh Health Telemetry Dashboard.
+22. **Swarm-10-Agents-Runtime** *(Cluster App)* — Autonomous 10-Agent Specialized Code & Security Review Runtime.
+23. **Antigravity-Sync-Hub** *(Cluster App)* — Automated Multi-Host Context & SQLite FTS5 Synchronization Engine.
 
 </details>
 
@@ -144,15 +144,15 @@ Every repository below is verified against `github.com/Charly-bite` and can be e
 <summary><b>🏭 3. Enterprise ERP/WMS, SAP B1 & ZMG Production Systems (20 Systems)</b></summary>
 
 24. **[QB-SGA](https://github.com/Charly-bite/QB-SGA)** *(Private)* — Warehouse & Chemical Lot Traceability System synced with SAP Business One.
-25. **[qb-wms](https://github.com/Charly-bite/qb-wms)** *(Private)* — Industrial Warehouse Management System & Barcode Dispatch Engine (`:5000`).
+25. **[qb-wms](https://github.com/Charly-bite/qb-wms)** *(Private)* — Industrial Warehouse Management System & Barcode Dispatch Engine.
 26. **[SGA_v1.0](https://github.com/Charly-bite/SGA_v1.0)** — Modular Open Warehouse Management Architecture (`v1.0`).
 27. **[QB-SAO](https://github.com/Charly-bite/QB-SAO)** *(Private)* — Automated Chemical Laboratory Certificates of Analysis (`CoA`) & Order Tracking.
 28. **[QB-Bitacora](https://github.com/Charly-bite/QB-Bitacora)** *(Private)* — Industrial Plant Operations & Shift Audit Logbook.
-29. **[zebra](https://github.com/Charly-bite/zebra)** *(Private)* — Native Win32 USB ZPL II Industrial Thermal Label Studio (`:5050`).
+29. **[zebra](https://github.com/Charly-bite/zebra)** *(Private)* — Native Win32 USB ZPL II Industrial Thermal Label Studio.
 30. **[Visor_Web_QuimicaBoss_Compras](https://github.com/Charly-bite/Visor_Web_QuimicaBoss_Compras)** *(Private)* — Executive Purchasing Intelligence Platform v8.1.
 31. **[QB-Ventas](https://github.com/Charly-bite/QB-Ventas)** *(Private)* — Commercial Sales & Margin Intelligence Platform v8.2.
 32. **[Visor_Web_QuimicaBoss_Contabilidad](https://github.com/Charly-bite/Visor_Web_QuimicaBoss_Contabilidad)** *(Private)* — Financial Ledger, Fiscal Reconciliation & Accounting Visor.
-33. **[QB-Panel](https://github.com/Charly-bite/QB-Panel)** *(Private)* — ISO 9001:2026 IT Infrastructure Audit & Preventive Maintenance Control Panel (`:8080`).
+33. **[QB-Panel](https://github.com/Charly-bite/QB-Panel)** *(Private)* — ISO 9001:2026 IT Infrastructure Audit & Preventive Maintenance Control Panel.
 34. **[QB-CCA](https://github.com/Charly-bite/QB-CCA)** *(Private)* — Automated CFE Industrial Tariff (`GDMTH`) PDF Parser & Energy Cost Analyzer.
 35. **[Promedio_Fletes](https://github.com/Charly-bite/Promedio_Fletes)** *(Private)* — Chemical Freight Cost & Logistics Route Optimization Engine.
 36. **[QB-IDS](https://github.com/Charly-bite/QB-IDS)** *(Private)* — Corporate Network Intrusion Detection & FortiGate Syslog Telemetry Collector.
@@ -169,7 +169,7 @@ Every repository below is verified against `github.com/Charly-bite` and can be e
 <details open>
 <summary><b>📱 4. Android 16 Native, Infrastructure Automation & Academic/Sci-Comp (17 Systems)</b></summary>
 
-44. **[AgyAndroidAuditor](https://github.com/Charly-bite/AgyAndroidAuditor)** *(Private)* — Kotlin Android 16 Security Auditor + Native ARM64 `agy` + MCP Server `:8765`.
+44. **[AgyAndroidAuditor](https://github.com/Charly-bite/AgyAndroidAuditor)** *(Private)* — Kotlin Android 16 Security Auditor + Native ARM64 `agy` + Embedded MCP Server.
 45. **[AndroidControl](https://github.com/Charly-bite/AndroidControl)** — Low-Latency ADB & Scrcpy Android Device Automation Toolkit.
 46. **[merlin-powershell](https://github.com/Charly-bite/merlin-powershell)** — Self-Healing Multi-Node Reverse Proxy & Watchdog Orchestrator.
 47. **[MeteorMadness](https://github.com/Charly-bite/MeteorMadness)** — 3D WebGL NASA Asteroid Orbital & Impact Physics Simulator.
@@ -181,10 +181,10 @@ Every repository below is verified against `github.com/Charly-bite` and can be e
 53. **[Hause](https://github.com/Charly-bite/Hause)** — Smart Home IoT Telemetry & Automation Prototype.
 54. **[Loom-video](https://github.com/Charly-bite/Loom-video)** — Asynchronous Screen Recording & Engineering Walkthrough Tool.
 55. **[Charly-bite](https://github.com/Charly-bite/Charly-bite)** — Executive Bilingual Engineering Dossier & 60-Project Architecture Index.
-56. **FinanzasMobile + Quant Simulator (:8502)** *(Mobile + Web)* — Native Android Kotlin App + Mexican `ISR`/`IMSS` Bi-Weekly Financial Simulator.
+56. **FinanzasMobile + Quant Simulator** *(Mobile + Web)* — Native Android Kotlin App + Mexican `ISR`/`IMSS` Bi-Weekly Financial Simulator.
 57. **POCO-Scrcpy-Studio** *(Cluster Tool)* — Hardware-Accelerated Android 16 Screen Mirroring & Input Injection Studio.
-58. **RouterOS-Network-Manager (:8085)** *(Cluster App)* — MikroTik RouterOS Bandwidth, VLAN & Firewall Policy Controller.
-59. **Simulador-Financiero-Quant (:8502)** *(Cluster App)* — Monte Carlo & Fixed-Income Yield Curve Portfolio Simulator.
+58. **RouterOS-Network-Manager** *(Cluster App)* — MikroTik RouterOS Bandwidth, VLAN & Firewall Policy Controller.
+59. **Simulador-Financiero-Quant** *(Cluster App)* — Monte Carlo & Fixed-Income Yield Curve Portfolio Simulator.
 60. **Academic-LaTeX-Auditor-Suite** *(Cluster Tool)* — Automated CUGDL Rubric Verification & TeX Live 2026 PDF Compilation Pipeline.
 
 </details>

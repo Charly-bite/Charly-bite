@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <b>📍 Zona Metropolitana de Guadalajara (Guadalajara / Zapopan, Jalisco, México)</b> · <b>📞 WhatsApp / Tel:</b> <code>+52 33 1388 5654</code> · <b>✉️</b> <a href="mailto:carlos.aceves6195@alumnos.udg.mx">carlos.aceves6195@alumnos.udg.mx</a><br/>
+  <b>📍 Zona Metropolitana de Guadalajara (Guadalajara / Zapopan, Jalisco, México)</b> · <b>✉️</b> <a href="mailto:carlos.aceves6195@alumnos.udg.mx">carlos.aceves6195@alumnos.udg.mx</a><br/>
   <sub><b>🟢 Disponibilidad Inmediata para Reclutadores y Equipos de Ingeniería en ZMG (Presencial · Híbrido · Remoto)</b> · Lic. en Ciberseguridad (LCIB) @ Universidad de Guadalajara (CUGDL, Código SIIAU: <code>225361954</code>)</sub>
 </p>
 
@@ -41,24 +41,24 @@
 
 ## 🏢 Experiencia Profesional en la Zona Metropolitana de Guadalajara (ZMG)
 
-### 1. **Química Boss S.A. de C.V.** — *Zapopan, Jalisco (Col. El Briseño) | 2024 – Presente*
+### 1. **Química Boss S.A. de C.V.** — *Zapopan, Jalisco (ZMG) | 2024 – Presente*
 **Ingeniero Líder de Desarrollo Full-Stack, ERP/WMS y Seguridad de Infraestructura**
-- **QB-SGA y QB-WMS (`:5000`):** Diseñé y desplegué los sistemas de gestión de almacén y trazabilidad de lotes químicos sincronizados con **SAP Business One** (`Lote`, `Pedimento Aduanal`, control de caducidades FIFO/FEFO y escaneo móvil).
-- **Zebra ZPL Native USB Studio (`:5050`):** Desarrollé un motor de impresión térmica industrial en Python usando la API nativa Win32 (`CreateFileW`) para enviar comandos `ZPL II` directo por USB sin pasar por el spooler de Windows (0 ms de latencia en etiquetado de tambores químicos).
-- **QB-SAO y QB-Panel ISO 9001:2026 (`:8080`):** Automaticé la emisión de Certificados de Análisis de Laboratorio (`CoA`) y construí el panel de auditoría y mantenimiento preventivo TI para 5 servidores y estaciones de trabajo.
+- **QB-SGA y QB-WMS:** Diseñé y desplegué los sistemas de gestión de almacén y trazabilidad de lotes químicos sincronizados con **SAP Business One** (`Lote`, `Pedimento Aduanal`, control de caducidades FIFO/FEFO y escaneo móvil).
+- **Zebra ZPL Native USB Studio:** Desarrollé un motor de impresión térmica industrial en Python usando la API nativa Win32 (`CreateFileW`) para enviar comandos `ZPL II` directo por USB sin pasar por el spooler de Windows (0 ms de latencia en etiquetado de tambores químicos).
+- **QB-SAO y QB-Panel ISO 9001:2026:** Automaticé la emisión de Certificados de Análisis de Laboratorio (`CoA`) y construí el panel de auditoría y mantenimiento preventivo TI para 5 servidores y estaciones de trabajo.
 - **Visores Ejecutivos BI y Data Lake Químico:** Desarrollé *Visor Compras v8.1*, *QB-Ventas v8.2*, *Visor Contabilidad*, *QB-CCA* (extractor automático de recibos industriales CFE tarifa `GDMTH` en PDF) y *QB-IDS* (colector syslog FortiGate con globo 3D de amenazas).
 
 ### 2. **Dory Zero-Trust Security & AI (`dory.mx` / `dev.dory.mx`)** — *Guadalajara, Jalisco | 2025 – Presente*
 **Fundador, Investigador en Ciberseguridad y Arquitecto de Sistemas Distribuidos**
 - **Motor Antiphishing con IA Explicable (`Dory.lat` / `XIA-Phishing`):** Entrenamiento y calibración sobre +82,000 correos con atribución explicable en vivo mediante **SHAP** y **LIME**, integrado con playbooks de respuesta a incidentes NIST SP 800-61.
 - **Anonimizador Mexicano PII / ARCO / LFPDPPP:** Firewall de privacidad en tiempo real y **Extensión Chrome MV3 (`v0.3.0`)** que enmascara `RFC`, `CURP`, `CLABE`, `NSS`, tarjetas y secretos antes de enviar prompts a ChatGPT, Claude, Gemini, Copilot o Perplexity.
-- **Clúster Híbrido de 5 Nodos y Merlin Watchdog:** Orquestación de alta disponibilidad (`merlin-powershell`) y **Hub Central de Memoria Persistente** en `ServerWebQB (.237)` indexando **1,073 sesiones técnicas** (`43,156` bloques en SQLite FTS5 + grafo Engram).
+- **Clúster Híbrido de 5 Nodos y Merlin Watchdog:** Orquestación de alta disponibilidad (`merlin-powershell`) y **Hub Central de Memoria Persistente** indexando **1,073 sesiones técnicas** (`43,156` bloques en SQLite FTS5 + grafo Engram).
 
 ### 3. **Consultoría Full-Stack, E-Commerce y Seguridad Móvil Android 16 (ZMG)** — *Guadalajara / Zapopan | 2025 – Presente*
 - **Lunoto (E-Commerce Guadalajara):** Tienda en línea full-stack y personalizador visual interactivo en HTML5 Canvas con cotización dinámica.
 - **Dra. Odette Noyola (`draodettenoyola.com` — Chapalita, Guadalajara):** Plataforma médica estética en producción con datos estructurados Schema.org `MedicalBusiness` y embudo de conversión por WhatsApp.
 - **GovTech y Auditoría de Transporte Urbano:** Desarrollo de *Visor Web MunTal Requisiciones* (portal de compras municipales) y auditoría de seguridad a infraestructura de transporte urbano (*SITEUR* Guadalajara).
-- **Seguridad en Android 16 y FinTech:** Desarrollo de *AgyAndroidAuditor* (app nativa Kotlin Jetpack Compose con binario ARM64 `agy` + servidor MCP local `:8765` en POCO X7 Pro) y *FinanzasMobile* (simulador quincenal mexicano de `ISR`, `IMSS` y portafolio cuantitativo `:8502`).
+- **Seguridad en Android 16 y FinTech:** Desarrollo de *AgyAndroidAuditor* (app nativa Kotlin Jetpack Compose con binario ARM64 `agy` + servidor MCP local embebido en Android 16) y *FinanzasMobile* (simulador quincenal mexicano de `ISR`, `IMSS` y portafolio cuantitativo).
 
 ---
 
@@ -70,7 +70,7 @@
 | **#2** | [**fuzzing-slurm-framework**](https://github.com/Charly-bite/fuzzing-slurm-framework) | `Go` `Slurm HPC` `Docker` `REST API` | Orquestador distribuido de Fuzzing y descubrimiento de vulnerabilidades sobre clústeres HPC Slurm. |
 | **#3** | [**sentinel-go**](https://github.com/Charly-bite/sentinel-go) | `Rust` `Hickory DNS` `AES-GCM` `mTLS` | Agente de telemetría DNS cifrada de alta concurrencia en Rust con Tokio y fragmentación autenticada AES-GCM. |
 | **#4** | [**SplunkSim**](https://github.com/Charly-bite/SplunkSim) | `TypeScript` `React` `Motor SPL` `MITRE` | Simulador interactivo SIEM y motor de consultas SPL para Threat Hunting con escenarios MITRE ATT&CK. |
-| **#5** | [**AgyAndroidAuditor**](https://github.com/Charly-bite/AgyAndroidAuditor) | `Kotlin` `Android 16` `ARM64` `MCP :8765` | Auditor de seguridad nativo en Android 16 (POCO X7 Pro) con binario `agy` `arm64-v8a` embebido y servidor MCP local. |
+| **#5** | [**AgyAndroidAuditor**](https://github.com/Charly-bite/AgyAndroidAuditor) | `Kotlin` `Android 16` `ARM64` `Embedded MCP` | Auditor de seguridad nativo en Android 16 (POCO X7 Pro) con binario `agy` `arm64-v8a` embebido y servidor MCP local. |
 | **#6** | [**swarm-ai-orchestrator**](https://github.com/Charly-bite/swarm-ai-orchestrator) | `Python` `FastAPI` `AsyncIO` `SSE` | Orquestador de enjambre multi-agente coordinando +10 agentes autónomos sobre el clúster híbrido de 5 nodos. |
 | **#7** | [**Persistent-Memory**](https://github.com/Charly-bite/Persistent-Memory) | `Python` `MCP` `SQLite FTS5` `Engram` | Servidor MCP de memoria persistente multiequipo (**1,073 conversaciones** y **43,156 bloques** indexados en Tailscale). |
 | **#8** | [**QB-SGA**](https://github.com/Charly-bite/QB-SGA) | `JavaScript` `Node.js` `SAP B1` `SQL` | Sistema de Gestión de Almacén y trazabilidad química sincronizado con **SAP Business One** en Química Boss (Zapopan). |
@@ -91,12 +91,12 @@
 
 ```mermaid
 flowchart LR
-    CF["Cloudflare Zero-Trust Edge<br/>(dory.mx / dev.dory.mx)"] --> M["Nodo 1: DEVQB (.222 · Zapopan)<br/>AMD Ryzen 5 5600GT · 64GB DDR4<br/>Radeon RX 9060 XT (16GB VRAM)"]
-    CF -. "Failover Automático Merlin" .-> W["Nodo 2: Desarrollo (.218 · Zapopan)<br/>AMD Ryzen 5 8500G (Radeon 740M)<br/>64GB DDR5 RAM · Nodo HA"]
-    M <-->|"Red Mesh Tailscale WireGuard"| H["Nodo 3: ServerWebQB (.237 · Zapopan)<br/>Windows Server 2022 · Xeon E3-1240 v3<br/>8GB RAM · 1,073 Sesiones IA en FTS5"]
-    W <-->|"Red Mesh Tailscale WireGuard"| H
-    H <-->|"Réplica Cifrada y SQL"| V["Nodo 4: QB-BD (.187 · Zapopan)<br/>Windows Server 2019 · Xeon Gold 5218R<br/>32GB ECC RAM · Bóveda SQL y Backups"]
-    M <-->|"ADB TCP + SSH"| L["Nodo 5: Home (.9 · Guadalajara)<br/>Core i5-12450H · 32GB RAM · RTX 3050<br/>Lab Seguridad Android 16 (POCO X7 Pro)"]
+    CF["Cloudflare Zero-Trust Edge<br/>(dory.mx / dev.dory.mx)"] --> M["Nodo 01: Nodo Principal App (Zapopan)<br/>AMD Ryzen 5 5600GT · 64GB DDR4<br/>Radeon RX 9060 XT (16GB VRAM)"]
+    CF -. "Failover Automático Merlin" .-> W["Nodo 02: Nodo Failover HA (Zapopan)<br/>AMD Ryzen 5 8500G (Radeon 740M)<br/>64GB DDR5 RAM · Nodo HA"]
+    M <-->|"Red Mesh Zero-Trust WireGuard"| H["Nodo 03: Hub Central de Contexto (Zapopan)<br/>Windows Server 2022 · Xeon E3-1240 v3<br/>8GB RAM · 1,073 Sesiones IA en FTS5"]
+    W <-->|"Red Mesh Zero-Trust WireGuard"| H
+    H <-->|"Réplica Cifrada y SQL"| V["Nodo 04: Bóveda Empresarial SQL (Zapopan)<br/>Windows Server 2019 · Xeon Gold 5218R<br/>32GB ECC RAM · Bóveda SQL y Backups"]
+    M <-->|"Red Cifrada"| L["Nodo 05: Lab Investigación Seguridad (Guadalajara)<br/>Core i5-12450H · 32GB RAM · RTX 3050<br/>Lab Seguridad Android 16"]
 ```
 
 ---
