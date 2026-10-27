@@ -62,6 +62,49 @@
 
 ---
 
+## 📌 Repositorios Públicos Destacados (6 Tarjetas Principales)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>01 · 🛡️ <a href="https://github.com/Charly-bite/Dory.lat">Dory.lat</a></b><br/>
+      <sub><code>Python</code> · <code>SHAP / LIME</code> · <code>Chrome MV3 v0.3.0</code></sub><br/>
+      Plataforma de Seguridad IA Zero-Trust (<code>dory.mx</code>), Motor Antiphishing XAI (+82K correos) y Anonimizador PII/ARCO mexicano.
+    </td>
+    <td width="50%" valign="top">
+      <b>02 · 🧠 <a href="https://github.com/Charly-bite/Porygon-Cyber-IDS-Wallpaper">Porygon-Cyber-IDS-Wallpaper</a></b><br/>
+      <sub><code>C#</code> · <code>.NET</code> · <code>3D Spiking Neural Network</code> · <code>OpenGL</code></sub><br/>
+      Sistema de Detección de Intrusiones (IDS) con Redes Neuronales de Impulsos (SNN) en 3D que visualiza entropía de paquetes en tiempo real.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>03 · 🏭 <a href="https://github.com/Charly-bite/QB-SGA">QB-SGA</a></b><br/>
+      <sub><code>JavaScript</code> · <code>Node.js</code> · <code>SAP Business One</code> · <code>SQL</code></sub><br/>
+      Sistema Empresarial de Gestión de Almacén y Trazabilidad de Lotes Químicos sincronizado con SAP Business One en Química Boss (Zapopan).
+    </td>
+    <td width="50%" valign="top">
+      <b>04 · 🏷️ <a href="https://github.com/Charly-bite/zebra">zebra</a></b><br/>
+      <sub><code>Python</code> · <code>Win32 CreateFileW</code> · <code>ZPL II</code> · <code>Flask</code></sub><br/>
+      Estudio de Etiquetado Térmico Industrial por USB nativo sin pasar por la cola de impresión de Windows (0 ms de latencia).
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>05 · 🚆 <a href="https://github.com/Charly-bite/SITEUR">SITEUR</a></b><br/>
+      <sub><code>Auditoría de Ciberseguridad</code> · <code>OWASP</code> · <code>Infraestructura Crítica</code></sub><br/>
+      Dossier de Auditoría de Seguridad, Análisis de Superficie de Ataque y Remediación para Transporte Urbano de Guadalajara (SITEUR).
+    </td>
+    <td width="50%" valign="top">
+      <b>06 · ⚡ <a href="https://github.com/Charly-bite/hcp-fuzzing">hcp-fuzzing</a></b><br/>
+      <sub><code>Go</code> · <code>Slurm HPC</code> · <code>Coverage-Guided Fuzzing</code></sub><br/>
+      Suite Distribuida de Fuzzing y Descubrimiento de Vulnerabilidades en Clústeres de Alto Rendimiento (HPC Slurm).
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🏆 Top 18 Desarrollos de Mayor Impacto (En vivo en [dev.dory.mx](https://dev.dory.mx/dev))
 
 | Rango | Sistema / Repositorio | Stack Principal | Arquitectura Verificada e Impacto en Producción |

@@ -62,6 +62,49 @@
 
 ---
 
+## 📌 Featured Public Repositories (6 Core Cards)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>01 · 🛡️ <a href="https://github.com/Charly-bite/Dory.lat">Dory.lat</a></b><br/>
+      <sub><code>Python</code> · <code>SHAP / LIME</code> · <code>Chrome MV3 v0.3.0</code></sub><br/>
+      Zero-Trust AI Security Platform (<code>dory.mx</code>), Explainable AI Phishing Engine (82K+ emails) &amp; Mexican LFPDPPP/ARCO PII Anonymizer.
+    </td>
+    <td width="50%" valign="top">
+      <b>02 · 🧠 <a href="https://github.com/Charly-bite/Porygon-Cyber-IDS-Wallpaper">Porygon-Cyber-IDS-Wallpaper</a></b><br/>
+      <sub><code>C#</code> · <code>.NET</code> · <code>3D Spiking Neural Network</code> · <code>OpenGL</code></sub><br/>
+      Real-Time 3D Spiking Neural Network (SNN) Intrusion Detection System visualizing live network packet entropy as synaptic firing topologies.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>03 · 🏭 <a href="https://github.com/Charly-bite/QB-SGA">QB-SGA</a></b><br/>
+      <sub><code>JavaScript</code> · <code>Node.js</code> · <code>SAP Business One</code> · <code>SQL</code></sub><br/>
+      Enterprise Warehouse Management &amp; Chemical Lot Traceability System synced with SAP Business One in production at Química Boss (Zapopan).
+    </td>
+    <td width="50%" valign="top">
+      <b>04 · 🏷️ <a href="https://github.com/Charly-bite/zebra">zebra</a></b><br/>
+      <sub><code>Python</code> · <code>Win32 CreateFileW</code> · <code>ZPL II</code> · <code>Flask</code></sub><br/>
+      Native USB Industrial Thermal Label Studio bypassing Windows print spooler for zero-latency chemical drum labeling &amp; QR traceability.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>05 · 🚆 <a href="https://github.com/Charly-bite/SITEUR">SITEUR</a></b><br/>
+      <sub><code>Cybersecurity Audit</code> · <code>OWASP</code> · <code>Critical Infrastructure</code></sub><br/>
+      Guadalajara Urban Rail (SITEUR) Infrastructure Security Audit, Attack Surface Analysis &amp; Remediation Dossier.
+    </td>
+    <td width="50%" valign="top">
+      <b>06 · ⚡ <a href="https://github.com/Charly-bite/hcp-fuzzing">hcp-fuzzing</a></b><br/>
+      <sub><code>Go</code> · <code>Slurm HPC</code> · <code>Coverage-Guided Fuzzing</code></sub><br/>
+      High-Performance Computing (HPC) Distributed Fuzzing &amp; Vulnerability Discovery Research Suite for Slurm Clusters.
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🏆 Top 18 High-Impact Flagship Systems (Live on [dev.dory.mx](https://dev.dory.mx/dev))
 
 | Rank | System / Repository | Stack | Verified Architecture & Production Impact |
